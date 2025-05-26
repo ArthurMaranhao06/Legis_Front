@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "Arthur@policiacivil.pe.gov.br",
+      "password": "senha32"
+    },
+    {
+      "email": "maria@policiacivil.pe.gov.br",
+      "password": "segredo456"
+    },
+    {
+      "email": "carlos@policiacivil.pe.gov.br",
+      "password": "teste789"
+    }
+  ]
+}
